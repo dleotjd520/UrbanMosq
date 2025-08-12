@@ -1,0 +1,9 @@
+
+# Sample data
+Example datasets for Waterside Habitats (WH) and Non-waterside Habitats (NH) are provided. Each dataset includes the date, mosquito abundance (ind.), and values for minimum temperature (Temp_min), maximum temperature (Temp_max), average temperature (Temp_av), precipitation (Prec), and number of precipitation days (Prec_day), calculated for cumulative periods from day 1 to day 30 (cum1–cum30).
+
+# R code
+The R code provided corresponds to the analytical methods applied in this study:
+(1) Mosquito–Cumulative Meteorology Comparison (2D) for Figures 3–5,
+(2) Mosquito–Cumulative Meteorology Comparison (3D surface plot) for Figure 6, and
+(3) Convergent Cross Mapping for Figures 7 and S1.
